@@ -1,5 +1,7 @@
 # Weather-App
-This project is a weather application built using JavaScript, HTML, and CSS that allows users to check the current weather of any city in the world. The app uses the OpenWeatherMap API to fetch real-time weather data, displaying it in a visually engaging and user-friendly way.
+This project is a weather application built using JavaScript, HTML, and CSS that allows users to check the current weather of any city in the world.
+
+It retrieves real-time weather information from the OpenWeatherMap API and presents it in an intuitive and visually appealing interface.
 
 Features:
 
