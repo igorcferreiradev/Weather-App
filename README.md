@@ -54,7 +54,8 @@ Feel free to fork this repository, make improvements, or submit pull requests to
 
 ### 🌍 API
 
-This app uses the **OpenWeatherMap API** to fetch weather data. You can replace the `apiKey` variable in the `script.js` file with your own API key if needed.
+This app uses the **OpenWeatherMap API** to fetch weather data.<br> 
+You can replace the `apiKey` variable in the `script.js` file with your own API key if needed.
 
 ---
 
