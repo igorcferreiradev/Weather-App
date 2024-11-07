@@ -39,7 +39,10 @@ This project is a weather application built using **JavaScript**, **HTML**, and 
 
 ### 🛠️ Installation
 
-To use this tool offline, download or clone the repository and open the `index.html` file in your browser.
+To use the quiz offline:
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
 
 ---
 
