@@ -48,8 +48,8 @@ body {
     width: 100%;
     display: flex;
     align-items: center; 
-    justify-content: center; /* Centering the input and button */
-    position: relative; /* Position relative for absolute positioning of SVG */
+    justify-content: center; 
+    position: relative;
 }
 
 .search input {
@@ -57,7 +57,7 @@ body {
     background: transparent;
     border: 2px solid #ffffff33;
     color: #ffffff;
-    padding: 10px 50px 10px 25px; /* Adjust right padding for SVG */
+    padding: 10px 0px 10px 25px; 
     height: 60px;
     border-radius: 30px;
     flex: 1;
@@ -69,9 +69,9 @@ body {
 }
 
 .search input:focus {
-    border: 2px solid #b9b9b980; /* Different color clicking */
-    box-shadow: 0 0 10px #b9b9b980; /* Additional shadow effect */
-    outline: none; /* remove focus outline */
+    border: 2px solid #b9b9b980; 
+    box-shadow: 0 0 10px #b9b9b980; 
+    outline: none; 
 }
 
 .search input:hover {
@@ -83,11 +83,11 @@ body {
     border: 0;
     outline: 0;
     width: 42px;
-    height: 60px; /* Match the height of the input */
+    height: 60px; 
     cursor: pointer;
     color: #fff;
     background: transparent;
-    margin-left: -42px; /* Overlap button with input */
+    margin-left: -42px; 
 }
 
 .search button img {
@@ -120,14 +120,14 @@ body {
 
 .info-row {
     display: flex;
-    justify-content: space-between; /* Ensures the humidity and wind columns are spaced evenly */
-    align-items: center; /* Aligns elements vertically in the center */
+    justify-content: space-between;
+    align-items: center;
 }
 
 .col {
     display: flex;
-    align-items: center; /* Vertically centers the icon and text */
-    flex-direction: row; /* Ensures the icon and text are arranged side by side */
+    align-items: center; 
+    flex-direction: row; 
 }
 
 .col img {
@@ -227,5 +227,6 @@ body {
 .card.visible {
     opacity: 1;
 }
+
 
 
