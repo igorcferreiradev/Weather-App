@@ -1,4 +1,4 @@
-# 🌤️ Weather-App
+# <h1 align="center">🌤️ Weather-App
 
 This project is a weather application built using **JavaScript**, **HTML**, and **CSS**. It allows users to check the current weather conditions of any city worldwide. The app fetches real-time weather data from the **OpenWeatherMap API** and presents it in an intuitive, visually appealing interface.
 
