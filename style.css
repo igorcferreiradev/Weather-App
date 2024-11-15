@@ -228,5 +228,41 @@ body {
     opacity: 1;
 }
 
+/* For screens between 769px and 1024px */
+@media (min-width: 450px) and (max-width: 1024px) {
+    .card {
+        width: 80%;
+        max-width: 500px;
+    }
+
+    .search input {
+        font-size: 20px;
+        width: 80%;
+    }
+
+    .weather h1 {
+        font-size: 70px;
+    }
+
+    .weather h2 {
+        font-size: 40px;
+    }
+
+    .info-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .col {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+    }
+
+    .humidity, .wind {
+        font-size: 28px;
+    }
+}
 
 
