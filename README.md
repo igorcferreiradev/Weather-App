@@ -7,7 +7,7 @@ This project is a weather application built using **JavaScript**, **HTML**, and 
 ### 🌟 Features
 
 - **City Search**: Enter any city name to fetch its current weather data.
-- **Weather Information**: Displays city name, temperature, humidity, wind speed, and weather condition (e.g., Clear, Rain, Snow).
+- **Weather Information**: Displays city name, temperature, humidity, wind speed, and weather condition <br> (e.g., Clear, Rain, Snow).
 - **Dynamic Weather Icons**: Weather icons that update based on the current weather (Cloudy, Clear, Rain, etc.).
 - **Error Handling**: Displays an error message and image if the city is not found.
   
@@ -32,7 +32,7 @@ This project is a weather application built using **JavaScript**, **HTML**, and 
 ### 🚀 How to Use
 
 - **Enter a City Name**: Type a city name into the input field and press "Enter" or click the search button.
-- **View the Weather**: The app shows the weather, including temperature, wind speed, and humidity. If the city is not found, an error message is displayed.
+- **View the Weather**: The app shows the weather, including temperature, wind speed, and humidity. <br> If the city is not found, an error message is displayed.
 - **Weather Conditions**: Weather icons and conditions update dynamically (Cloudy, Clear, Rain, etc.).
 
 ---
